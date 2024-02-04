@@ -1,7 +1,1 @@
 Hello welcome to the git world
-
-with the updated changes
-
-next changes 2
-
-demo branch
